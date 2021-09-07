@@ -1,0 +1,1602 @@
+[
+    {
+        "_id": "7e8e992e-8cbb-445b-9f67-f5450f6bcf69",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-01T22:53:36.917Z",
+        "duration": 1932
+    },
+    {
+        "_id": "0cc33a57-9489-4318-883d-95843e25562d",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-07T20:29:40.583Z",
+        "duration": 6630
+    },
+    {
+        "_id": "0cbb24b5-101e-47f4-b60f-fed1889c2b10",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-01T03:49:25.123Z",
+        "duration": 3205
+    },
+    {
+        "_id": "9fd734d7-4a0c-45a5-a6b4-016df603bb71",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-03T12:14:14.994Z",
+        "duration": 5296
+    },
+    {
+        "_id": "5b0833a6-3b2f-4b50-a18c-e7264a505dda",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-07T04:20:21.427Z",
+        "duration": 2171
+    },
+    {
+        "_id": "ac3da77f-19ec-4d78-9142-7bd7431602d4",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-04T20:47:31.563Z",
+        "duration": 2692
+    },
+    {
+        "_id": "5328f48d-ebe9-4214-9885-5fe1e03b4d1d",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-06T09:56:01.120Z",
+        "duration": 5318
+    },
+    {
+        "_id": "b10d75fb-7d86-498f-a3b5-2e617575cd8c",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-02T23:11:29.636Z",
+        "duration": 7103
+    },
+    {
+        "_id": "a8697be7-802f-48a9-b691-8026cda55561",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-05T22:46:51.852Z",
+        "duration": 3158
+    },
+    {
+        "_id": "ea5dae09-e8ea-43e9-b1a2-fb40b80ee898",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-03T15:21:38.423Z",
+        "duration": 1978
+    },
+    {
+        "_id": "4a22bbdb-4838-4c46-bcfd-ac5478f4f27b",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-04T15:21:43.656Z",
+        "duration": 4036
+    },
+    {
+        "_id": "426c6dfe-6991-4975-a34d-bdac487fb20a",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T2",
+        "start": "2021-04-07T03:17:00.058Z",
+        "duration": 4733
+    },
+    {
+        "_id": "ee62de98-1c65-4664-86ab-8c607e928801",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T4",
+        "start": "2021-04-02T16:23:45.346Z",
+        "duration": 4648
+    },
+    {
+        "_id": "4321ff88-f510-45df-bea7-f8d4071947df",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-07T09:03:20.064Z",
+        "duration": 6401
+    },
+    {
+        "_id": "bcc05cac-112d-40ee-9924-d4701e8c0583",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-02T05:33:52.481Z",
+        "duration": 6596
+    },
+    {
+        "_id": "56a265c4-fdd3-415a-a70c-9272663dd172",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-06T23:11:41.950Z",
+        "duration": 6382
+    },
+    {
+        "_id": "32002019-d532-48ef-9ccc-3a0d05b1909c",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-05T19:00:00.961Z",
+        "duration": 6964
+    },
+    {
+        "_id": "85b4dfaf-fccc-456d-84ad-ac1e883ec636",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-01T05:22:35.665Z",
+        "duration": 7157
+    },
+    {
+        "_id": "abe7d5b8-d77d-4ee1-9460-ae9d17fdd9fb",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-07T12:52:21.187Z",
+        "duration": 4986
+    },
+    {
+        "_id": "7e68f691-4536-4b43-a78d-430352961f55",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T1",
+        "start": "2021-04-05T06:46:26.101Z",
+        "duration": 6871
+    },
+    {
+        "_id": "deff6a71-c206-48c1-a228-2c9250d43162",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T3",
+        "start": "2021-04-05T12:17:31.281Z",
+        "duration": 2019
+    },
+    {
+        "_id": "b4d7b2c2-93b8-4b95-ad4e-85b059583722",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-01T09:31:18.654Z",
+        "duration": 2517
+    },
+    {
+        "_id": "2ad4ee58-460d-4f4a-87f2-dca3de71deac",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T6",
+        "start": "2021-04-01T16:42:31.396Z",
+        "duration": 3687
+    },
+    {
+        "_id": "cba9f40a-2b3d-4a51-b987-932063aaa283",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-05T16:18:11.636Z",
+        "duration": 4605
+    },
+    {
+        "_id": "2ae61773-fac6-4c54-88c2-6d772d497581",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T6",
+        "start": "2021-04-04T00:57:33.101Z",
+        "duration": 4890
+    },
+    {
+        "_id": "8da9b94f-a3d8-49b5-97c5-d1c5beb1cbbe",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-01T22:35:02.055Z",
+        "duration": 3126
+    },
+    {
+        "_id": "3ca4f41d-ac51-48bd-84cc-896079e3de3d",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-04T01:33:11.280Z",
+        "duration": 6634
+    },
+    {
+        "_id": "e83a6f5d-bdd9-40b8-a351-3baa4c473bcb",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-05T10:14:51.243Z",
+        "duration": 1614
+    },
+    {
+        "_id": "0754e83a-987a-4861-92f9-e1afa49b510a",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-03T03:20:07.415Z",
+        "duration": 3782
+    },
+    {
+        "_id": "ac4b9dc5-5b6a-4077-814b-6b7571c7246a",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-05T01:08:24.129Z",
+        "duration": 4613
+    },
+    {
+        "_id": "3820c1c4-aae0-458d-98bb-d86c185fd5ba",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-03T21:37:27.956Z",
+        "duration": 3775
+    },
+    {
+        "_id": "e0c908eb-acf2-4e9c-a9ab-cd32a657f022",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-06T19:32:08.674Z",
+        "duration": 1883
+    },
+    {
+        "_id": "8dc0fcb8-f127-4e52-ac3e-516f02b68a06",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-05T23:11:29.913Z",
+        "duration": 6460
+    },
+    {
+        "_id": "267aac54-fdce-4643-ac80-43285957aceb",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-06T15:22:44.277Z",
+        "duration": 6315
+    },
+    {
+        "_id": "6d96fbde-39d1-4523-8b17-e835a76e902c",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-05T00:01:28.071Z",
+        "duration": 4866
+    },
+    {
+        "_id": "41876ae3-5130-4910-979a-33ea0e0a960b",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T5",
+        "start": "2021-04-03T13:20:06.044Z",
+        "duration": 5073
+    },
+    {
+        "_id": "56c3e5fe-bf2e-4ad7-8b80-528ce5b85a46",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T4",
+        "start": "2021-04-02T18:04:13.495Z",
+        "duration": 4344
+    },
+    {
+        "_id": "4c965d7d-59a3-404f-99a5-6d265cab02b0",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T3",
+        "start": "2021-04-05T20:59:14.183Z",
+        "duration": 2315
+    },
+    {
+        "_id": "ecabc9c8-05a3-43a5-9148-86e714395e0b",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-02T08:14:37.454Z",
+        "duration": 2319
+    },
+    {
+        "_id": "f9cd0ce9-8c25-43bc-982d-4f92165146f2",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-02T07:52:08.384Z",
+        "duration": 1940
+    },
+    {
+        "_id": "59a52600-8c0f-43fa-8ee1-30b41ac39c1a",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-07T04:32:17.863Z",
+        "duration": 1875
+    },
+    {
+        "_id": "3459232d-f219-4af6-8ca4-75f4fedbc23a",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-01T17:44:35.662Z",
+        "duration": 5377
+    },
+    {
+        "_id": "3f448498-31bf-492b-ae18-d466fe684c27",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-05T15:45:31.009Z",
+        "duration": 1540
+    },
+    {
+        "_id": "968f1f00-c945-4c8c-9e3d-5ecc9c1cfc38",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-03T15:56:54.661Z",
+        "duration": 2630
+    },
+    {
+        "_id": "49440bd6-1443-4afe-b3da-c06630d0c84a",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-02T12:11:29.440Z",
+        "duration": 2693
+    },
+    {
+        "_id": "d2e26479-dd73-47e5-80f6-67dded386d4b",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-02T08:22:10.857Z",
+        "duration": 2169
+    },
+    {
+        "_id": "dbeb6e78-a107-4f49-8e26-4eb40921cf31",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-01T01:19:37.578Z",
+        "duration": 4346
+    },
+    {
+        "_id": "2b11acbb-6cbf-4985-a2b7-4b9bc5e483d1",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-03T23:08:27.283Z",
+        "duration": 3291
+    },
+    {
+        "_id": "7cb90600-0dc5-460e-b593-57fa8a656de4",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-04T10:08:50.890Z",
+        "duration": 5647
+    },
+    {
+        "_id": "e0590c64-2265-42fd-8977-05b9e7e868db",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-01T06:15:30.952Z",
+        "duration": 2800
+    },
+    {
+        "_id": "e0e06c5d-964d-4a5c-8fd9-e83f8c1b8508",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-07T12:04:14.754Z",
+        "duration": 6047
+    },
+    {
+        "_id": "bd41b539-d966-4215-90af-1c771939babe",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T4",
+        "start": "2021-04-01T13:36:05.632Z",
+        "duration": 4312
+    },
+    {
+        "_id": "8df7d5de-26a5-43dd-a866-396d87d15b32",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-05T00:30:07.881Z",
+        "duration": 2274
+    },
+    {
+        "_id": "aa412e86-90c1-456b-9c8c-b9bd49e44ad8",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-07T07:48:25.050Z",
+        "duration": 5288
+    },
+    {
+        "_id": "d9dd3d12-213b-455c-af94-2dd169ef9573",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-05T07:58:44.045Z",
+        "duration": 1664
+    },
+    {
+        "_id": "94798aaa-6f29-41f5-ad25-6932860e69ac",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-05T17:39:06.719Z",
+        "duration": 3705
+    },
+    {
+        "_id": "2ce80ba9-ba2d-406a-b8de-217ba8cdf6a5",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-06T11:55:53.968Z",
+        "duration": 2204
+    },
+    {
+        "_id": "ee55c6eb-18d1-4aed-88fe-a1ea610ff59f",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-01T12:32:28.219Z",
+        "duration": 3021
+    },
+    {
+        "_id": "5630d58f-ffd9-4c9d-91df-32451467c763",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-01T11:41:27.199Z",
+        "duration": 3269
+    },
+    {
+        "_id": "52f4a8b2-edb3-4969-a25d-372e4dd06e42",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-03T04:09:28.648Z",
+        "duration": 6918
+    },
+    {
+        "_id": "58f8cde1-71b7-496a-9292-92b0accc1c37",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-05T19:37:02.989Z",
+        "duration": 3453
+    },
+    {
+        "_id": "2b7149f4-bdbd-4db6-b5d0-d9e32d928150",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-01T04:22:42.665Z",
+        "duration": 2870
+    },
+    {
+        "_id": "c7602197-2cb8-476c-90c3-967261ae31a0",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T3",
+        "start": "2021-04-02T00:43:37.413Z",
+        "duration": 6279
+    },
+    {
+        "_id": "2941cb70-6f3f-431b-b2fc-4e1ad5cc1f85",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-07T02:47:59.848Z",
+        "duration": 1200
+    },
+    {
+        "_id": "c3002efe-5de5-4bc1-ac54-bb2ffea5142b",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-03T13:01:56.281Z",
+        "duration": 5912
+    },
+    {
+        "_id": "06bf2796-5e7a-491f-a58b-3cc797064105",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T1",
+        "start": "2021-04-01T23:28:19.959Z",
+        "duration": 3351
+    },
+    {
+        "_id": "4afc78b3-09e3-4d39-9809-0a69b7027118",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-03T21:25:29.975Z",
+        "duration": 3517
+    },
+    {
+        "_id": "b7fe2c22-fa08-4519-9d6d-09d7e9d74c6e",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T3",
+        "start": "2021-04-04T04:55:26.930Z",
+        "duration": 1889
+    },
+    {
+        "_id": "4bfde2ad-6380-46f1-ae12-441703cf19f3",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-06T17:46:35.610Z",
+        "duration": 6543
+    },
+    {
+        "_id": "cdbd14cc-c73f-493a-878d-08a4adb5542d",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-01T21:33:28.318Z",
+        "duration": 4219
+    },
+    {
+        "_id": "98edb194-df2f-47e8-88d7-83c86070663d",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-06T20:50:55.705Z",
+        "duration": 6680
+    },
+    {
+        "_id": "988a344d-53b9-40dc-9f70-60835a2376a2",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-06T15:23:39.826Z",
+        "duration": 5445
+    },
+    {
+        "_id": "4adc3829-695e-472d-adaf-52a8b5d73fd9",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-03T12:19:07.205Z",
+        "duration": 3439
+    },
+    {
+        "_id": "dfc8ffed-5cae-404b-8198-9f5501d09d52",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-07T04:43:43.187Z",
+        "duration": 5491
+    },
+    {
+        "_id": "ee8d2346-0c69-42c5-b559-7d2194d47260",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-04T04:09:41.274Z",
+        "duration": 3504
+    },
+    {
+        "_id": "21f36599-adb4-45bb-9662-eade0b85f3c9",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-06T17:12:21.264Z",
+        "duration": 1018
+    },
+    {
+        "_id": "23b1b821-0dac-4dac-af60-f053d4bad609",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-03T08:21:41.295Z",
+        "duration": 5284
+    },
+    {
+        "_id": "d32f3bf7-627c-41d5-9aeb-3bcec339b23a",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T2",
+        "start": "2021-04-02T22:49:49.882Z",
+        "duration": 4954
+    },
+    {
+        "_id": "d34dea92-067d-49fe-aefe-1b58ff5dc8ff",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T3",
+        "start": "2021-04-07T19:38:25.993Z",
+        "duration": 6849
+    },
+    {
+        "_id": "f0131474-5161-4efc-b2ab-fe7dea6306bc",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-05T23:37:33.597Z",
+        "duration": 1934
+    },
+    {
+        "_id": "7d372168-f254-4c74-8b62-123cb0184328",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-01T03:31:12.643Z",
+        "duration": 3451
+    },
+    {
+        "_id": "459d175b-4362-4de9-84bb-11a2e2028b1c",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T2",
+        "start": "2021-04-03T18:57:41.154Z",
+        "duration": 2010
+    },
+    {
+        "_id": "1c8722cc-84a3-471c-941b-c68f28196de0",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-06T01:58:07.884Z",
+        "duration": 5909
+    },
+    {
+        "_id": "aae85df6-05ad-4e88-bb19-ed88f804fdf7",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-04T13:37:27.850Z",
+        "duration": 2142
+    },
+    {
+        "_id": "10185b53-09bb-4198-995f-0b2ded8e2ab9",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-05T14:08:00.973Z",
+        "duration": 2200
+    },
+    {
+        "_id": "a6ab3f55-2714-47e2-8dc8-c8b29843536c",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-04T07:43:21.681Z",
+        "duration": 5694
+    },
+    {
+        "_id": "293805d0-3eca-45ec-8a37-17f8348dc33c",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-02T14:20:31.342Z",
+        "duration": 1891
+    },
+    {
+        "_id": "552ff85a-d483-404b-ac5d-5efaad5df84f",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-02T13:43:26.428Z",
+        "duration": 6470
+    },
+    {
+        "_id": "7cdf1cc4-d6c2-4843-aa76-fc6a739922b1",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-01T13:43:59.160Z",
+        "duration": 1455
+    },
+    {
+        "_id": "ede45672-9d55-42ab-b006-c8c84cb07e95",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-03T12:32:32.305Z",
+        "duration": 4453
+    },
+    {
+        "_id": "6305aae7-3914-4181-b206-68e698f433bd",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T5",
+        "start": "2021-04-02T19:00:22.234Z",
+        "duration": 3874
+    },
+    {
+        "_id": "35ff9537-3394-4c9c-ab67-268378150aec",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-02T18:42:29.822Z",
+        "duration": 2013
+    },
+    {
+        "_id": "3b049e38-9ff7-42f5-9f0f-3817fe58073f",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-06T15:40:48.781Z",
+        "duration": 2973
+    },
+    {
+        "_id": "e79b6299-57af-4c3d-83da-0bca30bca39d",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T3",
+        "start": "2021-04-07T22:34:48.504Z",
+        "duration": 1009
+    },
+    {
+        "_id": "3c026bfe-ae03-4ec7-a3f3-743c5c443cc7",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-01T22:37:33.443Z",
+        "duration": 6622
+    },
+    {
+        "_id": "52e6a6bc-d8d7-4c40-8856-762f1a376853",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-06T18:18:26.079Z",
+        "duration": 1204
+    },
+    {
+        "_id": "59a741b8-64b6-40a2-ac10-8c70b16d2e0b",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-03T19:56:31.399Z",
+        "duration": 6790
+    },
+    {
+        "_id": "3eb27508-6273-49d2-bc97-fe891b180011",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T3",
+        "start": "2021-04-02T20:09:18.197Z",
+        "duration": 2710
+    },
+    {
+        "_id": "fed61a9f-b758-44be-8723-5d60a1fc563d",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-07T04:16:44.574Z",
+        "duration": 5213
+    },
+    {
+        "_id": "03c31eb1-f634-45a9-a184-8ca9d242e892",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-04T14:19:37.779Z",
+        "duration": 1261
+    },
+    {
+        "_id": "e2eea5b8-e625-4de8-a6b3-ac8dd35e1fb9",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-06T02:18:54.510Z",
+        "duration": 5632
+    },
+    {
+        "_id": "5c3f4db0-15aa-4e80-91e4-6e8495ddf9d2",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T4",
+        "start": "2021-04-01T19:28:01.645Z",
+        "duration": 6420
+    },
+    {
+        "_id": "ac01ff27-4b41-4ca4-a3ea-af623d1c512b",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T6",
+        "start": "2021-04-03T23:28:27.352Z",
+        "duration": 1281
+    },
+    {
+        "_id": "c46eb6e4-6323-48d2-bbd7-3eb2c49f8fa9",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-02T15:46:56.779Z",
+        "duration": 1254
+    },
+    {
+        "_id": "c31aaff3-51c0-4871-9680-214fd58a671f",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T1",
+        "start": "2021-04-05T17:02:10.004Z",
+        "duration": 3465
+    },
+    {
+        "_id": "27203cfa-2bf9-4be2-b99e-09433522937d",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-04T20:22:43.903Z",
+        "duration": 3868
+    },
+    {
+        "_id": "349ad41f-a60d-45e9-92f3-2f354673cfb1",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T3",
+        "start": "2021-04-03T13:00:28.203Z",
+        "duration": 2097
+    },
+    {
+        "_id": "c7b895b8-7eea-4660-8f5b-666f508581a1",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-07T20:15:07.001Z",
+        "duration": 2264
+    },
+    {
+        "_id": "b29747f2-25fb-49b6-bd25-bdca88af327d",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T7",
+        "start": "2021-04-07T06:25:47.538Z",
+        "duration": 6960
+    },
+    {
+        "_id": "529bf82b-08a9-4bbe-87b2-e17bfef47ef4",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-01T04:41:02.771Z",
+        "duration": 5402
+    },
+    {
+        "_id": "b6835f24-65ef-4acd-b4e8-ba81b869286b",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T7",
+        "start": "2021-04-05T23:51:53.351Z",
+        "duration": 5499
+    },
+    {
+        "_id": "8a30d740-58bf-4d39-9f13-d1c8383ed6ae",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-01T09:11:45.864Z",
+        "duration": 6112
+    },
+    {
+        "_id": "64920214-ceca-479d-abf2-8bd42853a0d9",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-06T03:58:54.681Z",
+        "duration": 4219
+    },
+    {
+        "_id": "d06355d7-9bf1-4211-aba1-56744530642d",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-03T00:26:42.218Z",
+        "duration": 6280
+    },
+    {
+        "_id": "f04e16da-c19f-48e8-9c59-27787ac6161f",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-03T23:33:19.034Z",
+        "duration": 5152
+    },
+    {
+        "_id": "e32fb9d1-1164-44e2-aaa3-b806e38b074a",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-01T12:44:01.229Z",
+        "duration": 3155
+    },
+    {
+        "_id": "dc64d8f5-a4cd-45be-a8b4-43d904de91e2",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T2",
+        "start": "2021-04-07T04:04:58.793Z",
+        "duration": 5890
+    },
+    {
+        "_id": "9950bff2-1bbe-4a52-89eb-5de6a8ad18be",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T1",
+        "start": "2021-04-07T22:46:25.760Z",
+        "duration": 5395
+    },
+    {
+        "_id": "435d01e6-e703-4797-a894-8a017f0f560c",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T2",
+        "start": "2021-04-05T09:52:59.003Z",
+        "duration": 5012
+    },
+    {
+        "_id": "aeec929f-fca6-4607-a26d-65c9d3b41b06",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-01T02:07:20.565Z",
+        "duration": 1705
+    },
+    {
+        "_id": "60068e3b-913e-4474-9654-ea508f1554f9",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-07T15:24:57.958Z",
+        "duration": 4331
+    },
+    {
+        "_id": "e68d1110-2dd0-4553-8d69-93309e54d1d2",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-05T11:37:58.859Z",
+        "duration": 4217
+    },
+    {
+        "_id": "8922d817-4211-499a-8a24-2a200b9ac951",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-07T14:49:45.374Z",
+        "duration": 3940
+    },
+    {
+        "_id": "1e32b7ec-eb08-4dc8-ae27-94e47ed61890",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T2",
+        "start": "2021-04-04T04:53:29.185Z",
+        "duration": 6114
+    },
+    {
+        "_id": "b3200b03-6a46-4a5c-8cbb-5037f4935062",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-06T12:49:43.412Z",
+        "duration": 4365
+    },
+    {
+        "_id": "023508e3-6d9c-4a40-b5c4-124dcbe66ce4",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T3",
+        "start": "2021-04-04T13:31:26.654Z",
+        "duration": 5372
+    },
+    {
+        "_id": "4b3ea0f3-4c8a-48db-8266-240d681462ab",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-02T15:41:08.089Z",
+        "duration": 6780
+    },
+    {
+        "_id": "4ae34765-6c5b-41fa-91a4-a874e17d6fa3",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-03T04:30:32.564Z",
+        "duration": 2945
+    },
+    {
+        "_id": "94747dfe-c0ea-4367-9d2a-06bc857b6665",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T1",
+        "start": "2021-04-07T02:58:13.142Z",
+        "duration": 5944
+    },
+    {
+        "_id": "7cf14812-8225-4c3e-bb7e-3627fe3ac3bc",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-04T21:23:27.399Z",
+        "duration": 5654
+    },
+    {
+        "_id": "b6975a03-ee89-4cd0-b61b-24bb48cb9ae6",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-07T16:59:20.694Z",
+        "duration": 5012
+    },
+    {
+        "_id": "6b1f5bc4-bbb0-4057-aa50-23eba8283cb5",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-04T05:23:52.406Z",
+        "duration": 1089
+    },
+    {
+        "_id": "8e3d42a3-4c25-429a-8874-05d449fb361f",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-02T09:18:04.675Z",
+        "duration": 6450
+    },
+    {
+        "_id": "e74df411-82cd-49ae-8347-6328eaad0852",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-07T16:36:25.286Z",
+        "duration": 5089
+    },
+    {
+        "_id": "496ccf1d-8c14-4707-a8bd-3f68da12f70d",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-01T14:47:29.175Z",
+        "duration": 3726
+    },
+    {
+        "_id": "c82a6f8e-8aad-4be5-88b7-38ca27634b82",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-06T18:25:38.953Z",
+        "duration": 5882
+    },
+    {
+        "_id": "ae0e02a9-10bf-45e2-9e94-d345d62a7acd",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T1",
+        "start": "2021-04-05T20:37:43.314Z",
+        "duration": 6170
+    },
+    {
+        "_id": "78dff6d0-3354-4033-818d-65dd28e4df52",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-03T00:00:04.643Z",
+        "duration": 4377
+    },
+    {
+        "_id": "7d1b141b-dd5d-4d2d-9d74-43c8f9c646a3",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-01T02:14:41.493Z",
+        "duration": 4861
+    },
+    {
+        "_id": "ef21e060-ae32-47b2-a7db-c99dd585dc4c",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-05T04:07:01.490Z",
+        "duration": 1817
+    },
+    {
+        "_id": "a2c20fb4-f5ec-4b79-b40f-93a725ffb8e9",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T2",
+        "start": "2021-04-03T01:08:09.696Z",
+        "duration": 6721
+    },
+    {
+        "_id": "756c7408-cd0d-46a8-989a-00b811faaae6",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-02T22:38:32.971Z",
+        "duration": 1864
+    },
+    {
+        "_id": "184f5103-c8e9-4591-8b55-c252ac58cb48",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T4",
+        "start": "2021-04-04T17:08:16.573Z",
+        "duration": 5384
+    },
+    {
+        "_id": "de3e34bc-c95e-4683-84ed-6c32ed117c53",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-04T23:03:59.626Z",
+        "duration": 6949
+    },
+    {
+        "_id": "f2158dac-1ca6-4b19-b803-62238154d7ad",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T4",
+        "start": "2021-04-06T00:44:04.187Z",
+        "duration": 2049
+    },
+    {
+        "_id": "84c2635e-03b3-4102-8eb4-8de63e9c2e0e",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-06T00:34:53.616Z",
+        "duration": 4204
+    },
+    {
+        "_id": "fcb6b000-7fe3-42d7-9768-35ac3548efb4",
+        "site": "LA",
+        "msn": "M4",
+        "type": "T1",
+        "start": "2021-04-05T02:04:18.618Z",
+        "duration": 4938
+    },
+    {
+        "_id": "eddcc7e2-cedf-4206-9846-e704b3751f45",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-03T15:13:59.244Z",
+        "duration": 7166
+    },
+    {
+        "_id": "037d80df-defa-46bd-9f18-ac4095452833",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-07T22:07:55.491Z",
+        "duration": 3329
+    },
+    {
+        "_id": "83704298-b597-4056-b2c5-9b6f43389f88",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-05T14:35:42.790Z",
+        "duration": 5466
+    },
+    {
+        "_id": "3ce79d51-aa5c-4c39-975d-da9533ef243a",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-07T08:36:45.447Z",
+        "duration": 3776
+    },
+    {
+        "_id": "a6c0340a-ef66-4655-8768-948ce915eaeb",
+        "site": "DC",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-02T04:16:44.598Z",
+        "duration": 2590
+    },
+    {
+        "_id": "40d066d7-9e8c-419c-8134-81c99669ffae",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T5",
+        "start": "2021-04-05T19:10:51.552Z",
+        "duration": 6356
+    },
+    {
+        "_id": "12ef8b59-b6f2-4765-8672-8c2840d17220",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-02T17:57:40.681Z",
+        "duration": 1961
+    },
+    {
+        "_id": "25879e86-952d-417e-8ae2-81372b15c7b7",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T3",
+        "start": "2021-04-07T23:19:42.985Z",
+        "duration": 6928
+    },
+    {
+        "_id": "3d9b7a83-05c7-4f59-bffb-4af29548dd0e",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T3",
+        "start": "2021-04-03T11:33:52.114Z",
+        "duration": 5688
+    },
+    {
+        "_id": "7bd90caa-2574-4668-a2f5-cfb2096ab64f",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-05T15:59:09.612Z",
+        "duration": 2896
+    },
+    {
+        "_id": "318f64ac-d715-4411-8718-a97bf1eae5c4",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-01T10:01:47.680Z",
+        "duration": 6958
+    },
+    {
+        "_id": "8a89cfbd-76dc-44a2-a62a-214047f022ea",
+        "site": "LA",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-02T06:58:33.508Z",
+        "duration": 5216
+    },
+    {
+        "_id": "c93240bb-d688-4873-8bdf-830d50c7b3e9",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T1",
+        "start": "2021-04-07T17:25:51.762Z",
+        "duration": 1974
+    },
+    {
+        "_id": "25cdecc5-eeeb-4c9f-8f2e-538bfebb5312",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-02T03:07:31.388Z",
+        "duration": 3186
+    },
+    {
+        "_id": "bcc823ce-eae8-4b76-8b5d-74eada2ea4ad",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-01T14:29:37.351Z",
+        "duration": 1173
+    },
+    {
+        "_id": "d4476562-0eea-4c73-a846-373d955dc77f",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-03T18:41:30.067Z",
+        "duration": 4623
+    },
+    {
+        "_id": "82b8d73d-71ce-48a1-bc8c-06eddd903c99",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-02T08:55:37.479Z",
+        "duration": 6373
+    },
+    {
+        "_id": "63175eb4-6819-4790-b079-b5bae03f14be",
+        "site": "DC",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-05T04:57:58.822Z",
+        "duration": 6360
+    },
+    {
+        "_id": "29df2b06-b015-41df-a894-9648c22920a6",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-02T01:07:18.716Z",
+        "duration": 2356
+    },
+    {
+        "_id": "20366bc2-24d9-4b6b-a523-8aef18def808",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-07T04:54:39.532Z",
+        "duration": 3641
+    },
+    {
+        "_id": "d2dd5017-c17b-4c3f-88ec-c9fdf5e7d6df",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-01T01:43:39.166Z",
+        "duration": 3078
+    },
+    {
+        "_id": "ec42b7fa-2271-4b7c-b353-483a8e5ca089",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-03T12:00:59.147Z",
+        "duration": 2480
+    },
+    {
+        "_id": "79c74b13-d785-4c6d-b136-7010b9450343",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-05T17:27:49.476Z",
+        "duration": 1176
+    },
+    {
+        "_id": "afb90d66-aa49-4b9e-8ad5-7598190ba4f8",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-04T16:13:31.077Z",
+        "duration": 7027
+    },
+    {
+        "_id": "b0b5559c-2a5f-4bc2-bafb-b64ed0e42af9",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T7",
+        "start": "2021-04-04T15:04:05.858Z",
+        "duration": 1760
+    },
+    {
+        "_id": "8f587936-e8fb-4106-86ee-fb4d83e9d1b7",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T2",
+        "start": "2021-04-06T06:23:35.303Z",
+        "duration": 3641
+    },
+    {
+        "_id": "6189653c-e7d2-41cb-9296-a8010a31bbb1",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T7",
+        "start": "2021-04-06T09:06:29.332Z",
+        "duration": 3718
+    },
+    {
+        "_id": "378d845a-9341-4bb0-8f24-32b01df3809f",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-07T14:14:03.466Z",
+        "duration": 6663
+    },
+    {
+        "_id": "7bacd968-eed7-4af4-adea-4aeb8a1e23e9",
+        "site": "NY",
+        "msn": "M3",
+        "type": "T4",
+        "start": "2021-04-07T04:24:19.901Z",
+        "duration": 4170
+    },
+    {
+        "_id": "37234f47-ed40-4ce3-b105-d1098a66a1f2",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-01T19:09:14.796Z",
+        "duration": 2317
+    },
+    {
+        "_id": "2b0279e1-388c-4685-8d11-f89caa240810",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T7",
+        "start": "2021-04-07T18:43:11.501Z",
+        "duration": 5339
+    },
+    {
+        "_id": "75023e37-29c0-48c7-966f-fbadbf72da21",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-04T18:14:55.516Z",
+        "duration": 5008
+    },
+    {
+        "_id": "d6d93edf-3223-423b-b282-8acee6436109",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T1",
+        "start": "2021-04-05T03:33:24.226Z",
+        "duration": 4318
+    },
+    {
+        "_id": "54fd3670-68fa-4acd-b745-fcd6bb04364a",
+        "site": "DC",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-05T01:31:37.056Z",
+        "duration": 2782
+    },
+    {
+        "_id": "ab2e8f91-b1ef-45b4-86c7-e76822396d14",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-01T17:34:21.296Z",
+        "duration": 3212
+    },
+    {
+        "_id": "3874d039-78ad-47c3-902e-f5cff28c68cd",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T6",
+        "start": "2021-04-02T20:36:27.832Z",
+        "duration": 1970
+    },
+    {
+        "_id": "5986ca33-f064-482f-aadb-8fab60d1ca16",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-06T06:07:56.980Z",
+        "duration": 5208
+    },
+    {
+        "_id": "66cc5551-1d22-4300-98ad-3750b86a8428",
+        "site": "SF",
+        "msn": "M1",
+        "type": "T4",
+        "start": "2021-04-05T01:56:37.698Z",
+        "duration": 3654
+    },
+    {
+        "_id": "519dbfbb-cda4-47c6-924d-e2c682225a01",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T2",
+        "start": "2021-04-07T15:21:29.726Z",
+        "duration": 6586
+    },
+    {
+        "_id": "4fb090d6-b082-4845-922f-59128067b0ad",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-06T08:59:03.135Z",
+        "duration": 2485
+    },
+    {
+        "_id": "96e0049c-5c9a-4073-889c-09f7d4308ca0",
+        "site": "SF",
+        "msn": "M3",
+        "type": "T6",
+        "start": "2021-04-02T10:27:28.370Z",
+        "duration": 4873
+    },
+    {
+        "_id": "34396018-f6ea-4fc3-ac2c-abb3c53d787d",
+        "site": "NY",
+        "msn": "M1",
+        "type": "T7",
+        "start": "2021-04-07T20:25:54.904Z",
+        "duration": 5218
+    },
+    {
+        "_id": "6447485f-9a66-4810-ad81-696e508f9395",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-02T06:57:20.566Z",
+        "duration": 4127
+    },
+    {
+        "_id": "10ab6774-83fa-4129-96ec-d7a597aa12bf",
+        "site": "SF",
+        "msn": "M2",
+        "type": "T7",
+        "start": "2021-04-01T01:25:12.117Z",
+        "duration": 1739
+    },
+    {
+        "_id": "9fda54e4-98b1-43db-8949-5126a7aea588",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T6",
+        "start": "2021-04-01T18:45:13.525Z",
+        "duration": 5213
+    },
+    {
+        "_id": "cda51ffb-94d0-4e4b-9bcf-411f11a6ff32",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T5",
+        "start": "2021-04-04T23:27:06.222Z",
+        "duration": 4642
+    },
+    {
+        "_id": "fd434428-1b30-43ff-9694-682f9cda368f",
+        "site": "LA",
+        "msn": "M1",
+        "type": "T2",
+        "start": "2021-04-05T19:12:31.459Z",
+        "duration": 4061
+    },
+    {
+        "_id": "d569f853-2f41-4a42-a3c4-c1c1d14940f2",
+        "site": "SF",
+        "msn": "M4",
+        "type": "T2",
+        "start": "2021-04-05T04:54:31.548Z",
+        "duration": 1098
+    },
+    {
+        "_id": "49957562-c006-4aeb-90f7-95123e24594d",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T5",
+        "start": "2021-04-03T22:07:26.491Z",
+        "duration": 1955
+    },
+    {
+        "_id": "c77b4684-9bdf-4267-b14b-e3c8a5f78fec",
+        "site": "LA",
+        "msn": "M3",
+        "type": "T5",
+        "start": "2021-04-03T14:07:13.683Z",
+        "duration": 5009
+    },
+    {
+        "_id": "aad4170e-c8a0-4aad-9a2c-7a0e6bbb2f59",
+        "site": "NY",
+        "msn": "M4",
+        "type": "T5",
+        "start": "2021-04-01T14:59:25.824Z",
+        "duration": 2672
+    },
+    {
+        "_id": "d6ea3fb4-afa6-4bf9-80d2-1f253834f152",
+        "site": "DC",
+        "msn": "M4",
+        "type": "T5",
+        "start": "2021-04-07T17:20:47.851Z",
+        "duration": 5857
+    },
+    {
+        "_id": "60d7e574-e97f-41d1-81bc-a7a2107101df",
+        "site": "NY",
+        "msn": "M2",
+        "type": "T3",
+        "start": "2021-04-01T03:25:27.158Z",
+        "duration": 6574
+    }
+]

@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../assets/fonts/opensans-bold-webfont.woff2") format("woff2"),
+        url("../assets/fonts/opensans-bold-webfont.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("../assets/fonts/opensans-light-webfont.woff2") format("woff2"),
+        url("../assets/fonts/opensans-light-webfont.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("../assets/fonts/opensans-regular-webfont.woff2") format("woff2"),
+        url("../assets/fonts/opensans-regular-webfont.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("../assets/fonts/roboto-mono-regular.woff2") format("woff2"),
+        url("../assets/fonts/roboto-mono-regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+html {
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+section {
+    height: 800px;
+    overflow: auto;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+
+    font-family: var(--fontFamily, "Open Sans", sans-serif);
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    color: var(--fontColor, rgb(255, 255, 255));
+
+    background-color: rgb(24, 38, 53);
+
+    // background-color: var(--backgroundColor, rgb(24, 38, 53));
+
+    scrollbar-color: rgb(58, 129, 191) rgb(32, 50, 70);
+    // scrollbar-color: var(--scrollBarThumbBackgroundColor, rgb(58, 129, 191)) var(--scrollBarTrackCornerBackgroundColor, rgb(32, 50, 70));
+
+}
+
+.chart-label {
+    background-color: cadetblue;
+}
+
+.chart-subtrack-label{
+    background-color: darkorchid;
+}
+
+#chart-main-container {
+    // overflow-y: auto;
+    overflow-x: hidden;
+    // height: 900px;
+}
+
+#chart-main {
+    padding: 10px;
+    overflow-x: auto;
+    // height: 800px;
+}
+
+#chart-labels {
+    border: 1px solid white;
+    height: auto;
+    overflow-y: hidden;
+}
+
+#chart-schedule-container {
+    padding: 0;
+    margin: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+#chart-schedule {
+    border: 1px solid white;
+    overflow: hidden;
+    background-color: darkslategray;
+
+}

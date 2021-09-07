@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ScheduleService } from './schedule.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'schedule-chart-app';
+
+  constructor(
+    public service: ScheduleService
+  ){
+  }
 }
